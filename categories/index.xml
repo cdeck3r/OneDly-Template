@@ -2,13 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OneDly Project</title>
-    <link>http://cdeck3r.com/OneDly-Theme/categories/</link>
+    <link>https://cdeck3r.com/OneDly-Theme/categories/</link>
     <description>Recent content in Categories on OneDly Project</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://cdeck3r.com/OneDly-Theme/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://cdeck3r.com/OneDly-Theme/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

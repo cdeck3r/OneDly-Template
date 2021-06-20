@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OneDly Project</title>
-    <link>http://cdeck3r.com/OneDly-Theme/</link>
+    <link>https://cdeck3r.com/OneDly-Theme/</link>
     <description>Recent content on OneDly Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://cdeck3r.com/OneDly-Theme/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cdeck3r.com/OneDly-Theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/about/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/about/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/about/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/about/</guid>
       <description>One-Day-Only or OneDly projects help to acquire a new skill or to complete a task within a short timeframe. It limits the available time and combines it with defined objectives. This situation forces you to focus on the relevant elements in order to successfully complete a task or project. Please note, the idea is not to pack as much work as you can do within a workday. At the end you will find answers for the following questions</description>
     </item>
     
     <item>
       <title>Conclusion</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/conclusion/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/conclusion/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/conclusion/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/conclusion/</guid>
       <description>This section concludes the project.
 Summary The list below displays the achieved objectives:
  To be able to setup a Raspi from scratch To be able to develop a simple command line software To enable a software to automatically restart after shutdown / power off To enable resilience by monitoring and restarting software processes remotely  Conclusion I successfully acquired new development skills for raspi computers. They provide a valuable contribution to my CV.</description>
@@ -33,28 +29,28 @@ Summary The list below displays the achieved objectives:
     
     <item>
       <title>Fun</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/emoji-support/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/emoji-support/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/emoji-support/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>General Data Protection Regulation (GDPR)</title>
-      <link>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</guid>
       <description>GDPR information are highly specific to the site. You may use a generator, e.g. Datenschutz-Generator</description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</guid>
       <description>Information according to § 5 TMG
 first and last name address
 Contact: Phone: phone number E-Mail: e-mail address
@@ -64,21 +60,20 @@ Disclaimer: Content Liability The contents of our pages were created with great 
     
     <item>
       <title>Math Modeling</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/math-typesetting/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/math-typesetting/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/math-typesetting/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/math-typesetting/</guid>
       <description>&lt;p&gt;&lt;em&gt;Source: content taken from &lt;a href=&#34;https://github.com/gohugoio/hugoBasicExample&#34;&gt;hugoBasicExample&lt;/a&gt;. File: &lt;code&gt;math-typesetting.mmark&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Project Definition</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/project/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/project/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/project/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/project/</guid>
       <description>This section defines concisely the basic project frame.
 Goal Improve my CV by adding new state-of-the-art development skills.
 Approach &amp;amp; Objectives  To be able to setup a Raspi from scratch To be able to develop a simple command line software To enable a software to automatically restart after shutdown / power off To enable resilience by monitoring and restarting software processes remotely  </description>
@@ -86,20 +81,20 @@ Approach &amp;amp; Objectives  To be able to setup a Raspi from scratch To be ab
     
     <item>
       <title>Section</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/coding/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/coding/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/coding/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/coding/</guid>
       <description>Source: content taken from hugoBasicExample. File: markdown-syntax.md
 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description>
     </item>
     
     <item>
       <title>Section</title>
-      <link>http://cdeck3r.com/OneDly-Theme/post/images/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/post/images/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/post/images/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/post/images/</guid>
       <description>&lt;p&gt;&lt;em&gt;Source: content taken from &lt;a href=&#34;https://github.com/gohugoio/hugoBasicExample&#34;&gt;hugoBasicExample&lt;/a&gt;. File: &lt;code&gt;rich-content.md&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>

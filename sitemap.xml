@@ -1,73 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/</loc>
+    <loc>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/about/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/about/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/conclusion/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/conclusion/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/emoji-support/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/emoji-support/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/math-typesetting/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/math-typesetting/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/project/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/project/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/coding/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/coding/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/images/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/images/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/post/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/post/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/categories/</loc>
+  </url><url>
+    <loc>https://cdeck3r.com/OneDly-Theme/tags/</loc>
   </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cdeck3r.com/OneDly-Theme/tags/</loc>
-  </url>
-  
 </urlset>
