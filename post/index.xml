@@ -43,7 +43,6 @@ Summary The list below displays the achieved objectives:
       
       <guid>https://cdeck3r.com/OneDly-Theme/post/math-typesetting/</guid>
       <description>&lt;p&gt;&lt;em&gt;Source: content taken from &lt;a href=&#34;https://github.com/gohugoio/hugoBasicExample&#34;&gt;hugoBasicExample&lt;/a&gt;. File: &lt;code&gt;math-typesetting.mmark&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-
 &lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
