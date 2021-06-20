@@ -1,12 +1,11 @@
----
-author: Christian Decker
-title: Math Modeling
-date: 2019-08-07
-description: A brief guide to setup KaTeX
-markup: mmark
-math: true
-sec: 5
----
++++
+author = "Christian Decker"
+title = "Math Modeling"
+date = "2019-08-07"
+description = "A brief guide to setup KaTeX"
+math = "true"
+sec = "5"
++++
 
 _Source: content taken from [hugoBasicExample](https://github.com/gohugoio/hugoBasicExample). File: `math-typesetting.mmark`_
 
