@@ -2,30 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OneDly Project</title>
-    <link>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/</link>
+    <link>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/</link>
     <description>Recent content on OneDly Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://cdeck3r.com/OneDly-Theme/imprint-gdpr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://cdeck3r.com/OneDly-Theme/imprint-gdpr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General Data Protection Regulation (GDPR)</title>
-      <link>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/gdpr/</guid>
       <description>GDPR information are highly specific to the site. You may use a generator, e.g. Datenschutz-Generator</description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</link>
+      <link>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</link>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</guid>
+      <guid>https://cdeck3r.com/OneDly-Theme/imprint-gdpr/imprint/</guid>
       <description>Information according to § 5 TMG
 first and last name address
 Contact: Phone: phone number E-Mail: e-mail address
